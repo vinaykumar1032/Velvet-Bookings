@@ -5,4 +5,4 @@ Key features include:
 🔍 Search functionality with regex-based filtering 💬 User reviews and star ratings 🛡️ Secure authentication and session handling 💳 Razorpay integration for secure payments 
 🎨 Sleek, responsive UI with modern dark-themed design 
 🚀 Optimized performance and mobile-friendly interface 
-Link: https://velvet-bookings.onrender.com/listings
+Link: https://velvet-bookings-project.onrender.com/listings
